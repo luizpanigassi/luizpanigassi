@@ -12,7 +12,7 @@ Kidding, I'm Luiz - and I'd much rather be Yusuke Urameshi.
 
 - 💻 **Languages & Frameworks**: C, Shell scripting, JavaScript, Node.js, Flutter (Dart)
 - 🛠️ **Tools & Platforms**: Git, GitHub, Linux
-- 🌐 Exploring web technologies and backend development
+- 🌐 Exploring web technologies and front and backend development
 
 ## 📌 Featured Project
 
