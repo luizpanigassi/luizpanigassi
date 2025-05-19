@@ -14,6 +14,21 @@ Kidding, I'm Luiz - and I'd much rather be Yusuke Urameshi.
 - 🛠️ **Tools & Platforms**: Git, GitHub, Linux
 - 🌐 Exploring web technologies and backend development
 
+## 📌 Featured Project
+
+### [minishell42](https://github.com/luizpanigassi/minishell42)
+
+A collaborative project developed as part of the 42 São Paulo curriculum. `minishell42` is a minimalist shell implemented in C, designed to mimic basic functionalities of the Unix Bash shell. Key features include:
+
+- Execution of system and local commands
+- Implementation of built-in commands: `echo`, `cd`, `pwd`, `export`, `unset`, `env`, and `exit`
+- Support for pipes (`|`) and redirections (`<`, `>`, `>>`, `<<`)
+- Handling of environment variables and command-line parsing
+- Signal handling for `Ctrl-C`, `Ctrl-D`, and `Ctrl-\`
+
+This project provided hands-on experience with process management, file descriptors, and the intricacies of shell behavior.
+
+
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizpanigassi&layout=compact&langs_count=8&theme=default)
@@ -26,7 +41,7 @@ Kidding, I'm Luiz - and I'd much rather be Yusuke Urameshi.
 ## 🎮 Beyond Coding
 
 - 🏍️ Motorcycle aficionado
-- 🐶 Proud companion to two dogs, Bowie and Ozzy, and a cat named Harumaki
+- 🐶 Proud servant to two dogs, Bowie and Ozzy, and a cat named Harumaki
 - 🎮 Gamer on PSN: [ShadowVet68](https://psnprofiles.com/ShadowVet68)
 
 ## 📫 Let's Connect
