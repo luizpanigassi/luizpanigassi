@@ -42,7 +42,7 @@ This project provided hands-on experience with process management, file descript
 
 - 🏍️ Motorcycle aficionado
 - 🐶 Proud servant to two dogs, Bowie and Ozzy, and a cat named Harumaki
-- 🎮 Gamer on PSN: [ShadowVet68](https://psnprofiles.com/ShadowVet68)
+- 🎮 Gamer on PSN: [ShadowVet68](https://psntrophyleaders.com/user/view/ShadowVet68)
 
 ## 📫 Let's Connect
 
