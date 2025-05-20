@@ -43,6 +43,7 @@ This project provided hands-on experience with process management, file descript
 - 🏍️ Motorcycle aficionado
 - 🐶 Proud servant to two dogs, Bowie and Ozzy, and a cat named Harumaki
 - 🎮 Gamer on PSN: [ShadowVet68](https://psntrophyleaders.com/user/view/ShadowVet68)
+- [![Discord](https://img.shields.io/badge/Discord-shadowv68-7289DA?style=for-the-badge&logo=discord)](https://discord.com/)
 
 ## 📫 Let's Connect
 
